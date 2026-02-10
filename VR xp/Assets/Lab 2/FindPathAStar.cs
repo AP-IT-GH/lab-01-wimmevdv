@@ -173,7 +173,7 @@ public class FindPathAStar : MonoBehaviour {
         if (hasStarted)
             if (Input.GetKeyDown(KeyCode.C)) Search(lastPos);
         
-        if (done) ReconstructPath();
+        if (done && Input.GetKeyDown(KeyCode.A)) ReconstructPath();
     }
 
     // The coroutine function
