@@ -1,0 +1,56 @@
+{
+    "Obelix": {
+        "checkpoints": [
+            {
+                "steps": 6576,
+                "file_path": "results\\ObelixStonHenge1\\Obelix\\Obelix-6576.onnx",
+                "reward": null,
+                "creation_time": 1774991709.3140438,
+                "auxillary_file_paths": [
+                    "results\\ObelixStonHenge1\\Obelix\\Obelix-6576.pt"
+                ]
+            },
+            {
+                "steps": 125344,
+                "file_path": "results\\ObelixStonHenge1\\Obelix\\Obelix-125344.onnx",
+                "reward": -11.650000464171171,
+                "creation_time": 1774992566.196179,
+                "auxillary_file_paths": [
+                    "results\\ObelixStonHenge1\\Obelix\\Obelix-125344.pt"
+                ]
+            },
+            {
+                "steps": 128224,
+                "file_path": "results\\ObelixStonHenge1\\Obelix\\Obelix-128224.onnx",
+                "reward": null,
+                "creation_time": 1774992802.7556708,
+                "auxillary_file_paths": [
+                    "results\\ObelixStonHenge1\\Obelix\\Obelix-128224.pt"
+                ]
+            },
+            {
+                "steps": 333952,
+                "file_path": "results\\ObelixStonHenge1\\Obelix\\Obelix-333952.onnx",
+                "reward": null,
+                "creation_time": 1774993797.6524951,
+                "auxillary_file_paths": [
+                    "results\\ObelixStonHenge1\\Obelix\\Obelix-333952.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 333952,
+            "file_path": "results\\ObelixStonHenge1\\Obelix.onnx",
+            "reward": null,
+            "creation_time": 1774993797.6524951,
+            "auxillary_file_paths": [
+                "results\\ObelixStonHenge1\\Obelix\\Obelix-333952.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cpu"
+    }
+}

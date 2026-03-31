@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1772200172",
+        "python_version": "3.9.25 (main, Nov  3 2025, 22:44:01) [MSC v.1929 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\vande\\anaconda3\\envs\\mlagents2\\Scripts\\mlagents-learn Assets\\agent2.yaml --run-id=agent_test_1 --force",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cpu",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1772200181"
+    },
+    "total": 8.6437641,
+    "count": 1,
+    "self": 0.006890100000001453,
+    "children": {
+        "run_training.setup": {
+            "total": 0.10091629999999996,
+            "count": 1,
+            "self": 0.10091629999999996
+        },
+        "TrainerController.start_learning": {
+            "total": 8.535957699999999,
+            "count": 1,
+            "self": 0.0001066999999999041,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 8.5358349,
+                    "count": 1,
+                    "self": 8.5358349
+                },
+                "TrainerController._save_models": {
+                    "total": 1.6099999999852344e-05,
+                    "count": 1,
+                    "self": 1.6099999999852344e-05
+                }
+            }
+        }
+    }
+}
