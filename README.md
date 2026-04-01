@@ -46,10 +46,17 @@ Van het speelveld vallen	                     -1.0	Negatief
 
 ## 3. Resultaten
 <img width="1148" height="551" alt="image" src="https://github.com/user-attachments/assets/9d5040c2-4598-4c68-a317-cddde5c4212d" /> 
+Eerst had ik een simpeler script geschreven waarbij er slechts 1 mehrir was die telkens random spawnde, en de destination ook, dit lukte zonder al te veel moeite. De reden dat de resultaten zoveel schomelen komt doordat de destination en mehrir op verschillende plekken spawnen , soms kan hij het dus snel voltooien, en soms duurt het langer, dit geld ook voor de volgende foto.
+
 <img width="1163" height="440" alt="image" src="https://github.com/user-attachments/assets/ffc1eae4-c7a9-4e85-9b53-4ffa210f04f7" />
+Nadat de vorige test gelukt was heb ik het script uitgebreid naar een vaste circle mehrirs, en op verschillende plek spawnende stenen. Dit ging natuurlijk trager, maar de AI had het uiteindelijk door, ik ben wel tegen wat dingen aangelopen.
+- Een probleem was dat het de mehrirs niet kon inleveren , dit kwam doordat de box colider van de destination niet op "is trigger" stond, ik paste dit aan en als verliep vlotjes.
+
 <img width="577" height="392" alt="image" src="https://github.com/user-attachments/assets/8dd06ba7-71e3-49ef-9ed6-6ed3716d11cb" />
+Env lenghts.
 
 ## 4. Conclusie
-
+Het reinforcement learning was succesvol, al moet ik zorgen dat ik de enviremont heuritic test alvorens de training te starten, dit had me heel wat tijd bespaart, want deed dit pas na een uur toen er geen resultaten waren, en kwam toen achter een programmeer / config fout. Hier leer ik uit.
 ## 5. Referenties
-
+- Opdracht Obelix van meneer
+- Claude AI voor kleine vragen
