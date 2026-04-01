@@ -1,6 +1,4 @@
 # Rapport Obelix
-
-<img width="1148" height="551" alt="image" src="https://github.com/user-attachments/assets/9d5040c2-4598-4c68-a317-cddde5c4212d" /> 
  
 ## 1. Inleiding
 Dit rapport beschrijft het de implementatie en de resultaten van reinforcement learning a.d.h.v een simulatie gebouwd in Unity met het ML-Agents. Het doel is om een virtuele agent (Obelix) te trainen om zelfstandig menhirs op te pakken en af te leveren op aangewezen bestemmingen.
@@ -47,6 +45,9 @@ Van het speelveld vallen	                     -1.0	Negatief
 
 
 ## 3. Resultaten
+<img width="1148" height="551" alt="image" src="https://github.com/user-attachments/assets/9d5040c2-4598-4c68-a317-cddde5c4212d" /> 
+<img width="1163" height="440" alt="image" src="https://github.com/user-attachments/assets/ffc1eae4-c7a9-4e85-9b53-4ffa210f04f7" />
+<img width="577" height="392" alt="image" src="https://github.com/user-attachments/assets/8dd06ba7-71e3-49ef-9ed6-6ed3716d11cb" />
 
 ## 4. Conclusie
 
